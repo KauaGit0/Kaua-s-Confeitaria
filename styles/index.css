@@ -26,8 +26,8 @@ footer{
 
 main{
 background-color: #84848C;
-width: 75%;
-height: 50%;
+width: 70%;
+height: 45%;
 border-radius: 15px;
 padding: 20px 0px;
 margin: 5px auto;
@@ -41,9 +41,9 @@ footer{
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
-.Loja img{
-    width: 25%
-    display: flex;
+.imagemBolo img{
+    width: 25%;
+
 }
 
 .Loja{
